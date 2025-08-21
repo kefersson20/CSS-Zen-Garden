@@ -19,6 +19,4 @@ A ideia é criar um design limpo, arejado e moderno.
 - **Destaque:** `#4CAF50` (verde médio vibrante, para títulos e links)  
 - **Extra (detalhes):** `#FFC107` (amarelo quente, usado em interações)  
 
----
 
-## 📂 Estrutura do projeto
