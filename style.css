@@ -1,0 +1,40 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  background-color: #F0F5F1; /* Fundo */
+  color: #2D2D2D;           /* Texto */
+  line-height: 1.6;
+  padding: 20px;
+}
+
+/* Cabeçalhos */
+h1, h2, h3 {
+  color: #4CAF50; /* Cor de destaque */
+  margin-bottom: 10px;
+}
+
+/* Links */
+a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFC107; /* Amarelo como destaque secundário */
+}
+
+/* Containers */
+div, section {
+  margin-bottom: 20px;
+  padding: 10px;
+}
